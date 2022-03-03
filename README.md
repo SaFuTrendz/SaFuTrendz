@@ -1,6 +1,4 @@
-Welcome to the Official SaFuTrendz Github Repository
-
-<!---
-SaFuTrendz/SaFuTrendz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Official SaFuTrendz GitHub Repo
+website: www.safutrendz.com
+Telegram Group: https://t.me/safu_trendz
+Twitter Handle: https://twitter.com/safu_trendz
