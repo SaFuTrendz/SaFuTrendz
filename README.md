@@ -1,4 +1,5 @@
 Official SaFuTrendz GitHub Repo
 <p>website: www.safutrendz.com</p>
-Telegram Group: https://t.me/safu_trendz
-Twitter Handle: https://twitter.com/safu_trendz
+<p>Telegram Group: https://t.me/safu_trendz</p>
+<p>Telegram Channel: https://t.me/safu_trendzans</p>
+<p>Twitter Handle: https://twitter.com/safu_trendz</p>
